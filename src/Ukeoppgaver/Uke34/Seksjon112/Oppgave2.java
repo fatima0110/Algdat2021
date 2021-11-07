@@ -1,4 +1,4 @@
-package Ukeoppgaver.Uke1.Seksjon112;
+package Ukeoppgaver.Uke34.Seksjon112;
 
 public class Oppgave2 {
     public static int min(int[] a)  // a er en heltallstabell

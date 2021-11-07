@@ -1,4 +1,4 @@
-package Ukeoppgaver.Uke1.Seksjon112;
+package Ukeoppgaver.Uke34.Seksjon112;
 
 public class Oppgave3 {
     public static int maks(int[] a)  // a er en heltallstabell
